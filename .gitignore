@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!README.md
+
+# Necessary Kicad Files
+!*.kicad_pcb
+!*.kicad_pro
+!*.kicad_sch
