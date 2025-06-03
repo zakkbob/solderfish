@@ -1,5 +1,5 @@
 # Solderfish
-My first PCB, I made it for [Solder](https://solder.hackclub.com), a [Hack Club](https://hackclub.com) program where you make your first circuit board and get a kit of electronics to assemble it for free!
+My first PCB!
 
 # Schematic
 It's very simple, when the button is pressed, the LEDs _should_ turn on.
@@ -27,3 +27,4 @@ Also, it's supposed to look like a fish.
 | SW_Push | 1 | SW1 | Button_Switch_THT:SW_PUSH_6mm |
 
 Made by @zakkbob on slack :D
+Made for [Solder](https://solder.hackclub.com), a [Hack Club](https://hackclub.com) program where you make your first circuit board and get a kit of electronics to assemble it for free!
