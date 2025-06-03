@@ -29,3 +29,4 @@ Also, it's supposed to look like a fish.
 Made by @zakkbob on slack :D
 
 Made for [Solder](https://solder.hackclub.com), a [Hack Club](https://hackclub.com) program where you make your first circuit board and get a kit of electronics to assemble it for free!
+I'll probably make it look more like a fish before submitting it
