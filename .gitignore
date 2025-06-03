@@ -3,6 +3,8 @@
 !LICENSE
 !.gitignore
 !README.md
+!/images/
+!/images/*
 
 # Necessary Kicad Files
 !*.kicad_pcb
