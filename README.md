@@ -17,6 +17,7 @@ Also, it's supposed to look like a fish.
 - Low power! Only 3V
 - Contains the [Hacklet](hacklet.hackclub.com) logo :O (My first YSWS)
 - Random bits of text I added
+- Super cool fish shape
 
 # BOM
 | Value | Qty | Reference | Footprint |
